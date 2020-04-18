@@ -1,0 +1,7 @@
+#pragma once
+#include <string>
+
+const std::string g_oldVersion = "${OLD_VERSION}";
+const std::string g_newVersion = "${NEW_VERSION}";
+
+const std::string g_productName = "${PRODUCT_NAME}";

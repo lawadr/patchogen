@@ -1,0 +1,4 @@
+#include "patch.h"
+#include "${BINARY_HEADER}"
+
+AddedFile ${OBJECT_VAR}("${FILE}", ${BINARY_VAR});
